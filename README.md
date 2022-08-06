@@ -1,7 +1,13 @@
 <h1 align="center">Olá 👋,meu nome é Yuri Cirino</h1>
 <h3 align="center">Sou estudante de Engenharia Elétrica e amante da programação!</h3>
 
-- 🔭 Atualmente estou trabalhando no meu portfólio
+- 🔭 Atualmente estou trabalhando no meu portfólio:
+- [X] [Login Form CSS]()
+- [X] [Example UnForm](https://example-unform.vercel.app/)
+- [X] [Side Bar Menu](https://yuricirino.github.io/side-bar-menu/)
+- [X] [Princing Table](https://yuricirino.github.io/pricing-table/)
+- [X] [Qr Code](https://yuricirino.github.io/qrcode/)
+- [ ] Todo App
 
 - 🌱 Estou estudando e aprendendo **Python, ReactJ e TypeScript**
 
