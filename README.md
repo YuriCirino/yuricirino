@@ -9,7 +9,7 @@
 - [X] [Qr Code](https://yuricirino.github.io/qrcode/)
 - [ ] Todo App
 
-- 🌱 Estou estudando e aprendendo **Python, ReactJ e TypeScript**
+- 🌱 Estou estudando e aprendendo **Python, ReactJs e TypeScript**
 
 - 📫 E-mail **yuricirino@outlook.com**
 
