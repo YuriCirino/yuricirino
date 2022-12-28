@@ -6,7 +6,8 @@
 - [X] [Example UnForm](https://example-unform.vercel.app/)
 - [X] [Side Bar Menu](https://yuricirino.github.io/side-bar-menu/)
 - [X] [Princing Table](https://yuricirino.github.io/pricing-table/)
-- [X] [Qr Code](https://yuricirino.github.io/qrcode/)
+- [X] [Qr Code Page](https://yuricirino.github.io/qrcode/)
+- [X] [Editor Markdown Simples](https://yuricirino.github.io/markdowneditor/)
 - [ ] Todo App
 
 - 🌱 Estou estudando e aprendendo **Python, ReactJs e TypeScript**
