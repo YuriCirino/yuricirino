@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 meu nome é Yuri Cirino</h1>
-<h3 align="center">Sou estudante de Engenharia Elétrica e amante da programação!</h3>
+<h3 align="center">Sou estudante de Engenharia Elétrica e apaixonado pela programação!</h3>
 
 - 🔭 Atualmente estou trabalhando no meu portfólio e em busca da minha primeira oportunidade:
 - [X] [Login Form CSS](https://yuricirino.github.io/login-form-css/)
