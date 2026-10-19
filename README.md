@@ -14,7 +14,7 @@ I worked as an electrical designer (building, industrial and fire-protection pro
 #### What I work with
 
 - **HDL & verification:** Verilog (RTL + testbenches), self-checking testbenches, waveform debug
-- **Cadence flow:** Xcelium + SimVision (simulation), Genus (logic synthesis), Conformal LEC (equivalence checking), SDC constraints
+- **Cadence flow:** Xcelium + SimVision (simulation), Genus (logic synthesis), Conformal LEC (equivalence checking)
 - **Open-source tools:** Icarus Verilog, GTKWave
 - **Protocols:** AMBA APB3
 - **Software:** Python, JavaScript/TypeScript, React, Vitest, AutoLISP, Tcl
@@ -24,7 +24,7 @@ I worked as an electrical designer (building, industrial and fire-protection pro
 
 | Project | What it is |
 |---|---|
-| [Neander CPU in Verilog](https://github.com/Anakarolynas/Neander-verilog) | 8-bit educational CPU, team of 3. I designed the **control unit and FSM**. One testbench per module plus full programs running on the CPU, scripted for Windows and Linux. |
+| [Neander CPU in Verilog](https://github.com/Anakarolynas/Neander-verilog) | 8-bit educational CPU, team of 3. I designed the **control unit and FSM** ([standalone repo](https://github.com/YuriCirino/neander-unitcontrol-fsm)). Self-checking testbench per module plus 6 programs running on the full CPU, scripted for Windows and Linux. |
 | RSA_APB *(in progress)* | AMBA APB3 slave wrapper around a 32-bit RSA core. |
 | [DeltaCalc](https://eletrodim.netlify.app/) | Low-voltage electrical design calculators based on the Brazilian standard NBR 5410: cable and conduit sizing, voltage drop, power factor. Calculation rules isolated from the UI and unit-tested. |
 | [AutoCADScripts](https://github.com/YuriCirino/AutoCADScripts) | AutoLISP tool that cleans up geometry imported from PDFs by selecting parallel lines and filtering noise. Built for my own lightning-protection (SPDA) drawings. |
@@ -35,4 +35,4 @@ SystemVerilog for verification, assertions (SVA) and UVM.
 
 ---
 
-📫 Contact: *(add your email or LinkedIn here)*
+📫 yuricirino@outlook.com
