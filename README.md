@@ -1,20 +1,38 @@
-<h1 align="center">Olá 👋 meu nome é Yuri Cirino</h1>
-<h3 align="center">Sou estudante de Engenharia Elétrica e apaixonado pela programação!</h3>
+### Hi, I'm Yuri 👋
 
-- 🔭 Atualmente estou trabalhando no meu portfólio e em busca da minha primeira oportunidade:
-- [X] [Login Form CSS](https://yuricirino.github.io/login-form-css/)
-- [X] [Example UnForm](https://example-unform.vercel.app/)
-- [X] [Side Bar Menu](https://yuricirino.github.io/side-bar-menu/)
-- [X] [Princing Table](https://yuricirino.github.io/pricing-table/)
-- [X] [Qr Code Page](https://yuricirino.github.io/qrcode/)
-- [X] [Editor Markdown Simples](https://yuricirino.github.io/markdowneditor/)
-- [x] [DeltaCalc](https://eletrodim.netlify.app/)
+Electrical engineering student (graduating Dec 2026) moving into **digital IC design and verification**.
+I'm doing a graduate specialization in Digital Circuit Design with emphasis on Verification at Unisinos (Brazil), working hands-on with RTL in Verilog and the Cadence digital flow.
 
-- 🌱 Estou estudando e aprendendo **Python, ReactJs e TypeScript**
+**Looking for:** junior / graduate roles in Design Verification, RTL design or FPGA. Open to relocation.
 
-- 📫 E-mail **yuricirino@outlook.com**
+#### How I got here
 
-<p align="left">
-</p>
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I worked as an electrical designer (building, industrial and fire-protection projects) and on hydraulic engineering projects for Petrobras. Along the way I kept writing software to automate my own work: AutoCAD scripts, a web calculator for cable sizing, web apps in React and TypeScript. Verification is where those two sides meet: hardware that has to be right, checked by software that has to be thorough.
+
+---
+
+#### What I work with
+
+- **HDL & verification:** Verilog (RTL + testbenches), self-checking testbenches, waveform debug
+- **Cadence flow:** Xcelium + SimVision (simulation), Genus (logic synthesis), Conformal LEC (equivalence checking), SDC constraints
+- **Open-source tools:** Icarus Verilog, GTKWave
+- **Protocols:** AMBA APB3
+- **Software:** Python, JavaScript/TypeScript, React, Vitest, AutoLISP, Tcl
+- **Embedded & hardware:** ESP32, Arduino, PCB design
+
+#### Featured projects
+
+| Project | What it is |
+|---|---|
+| [Neander CPU in Verilog](https://github.com/Anakarolynas/Neander-verilog) | 8-bit educational CPU, team of 3. I designed the **control unit and FSM**. One testbench per module plus full programs running on the CPU, scripted for Windows and Linux. |
+| RSA_APB *(in progress)* | AMBA APB3 slave wrapper around a 32-bit RSA core. |
+| [DeltaCalc](https://eletrodim.netlify.app/) | Low-voltage electrical design calculators based on the Brazilian standard NBR 5410: cable and conduit sizing, voltage drop, power factor. Calculation rules isolated from the UI and unit-tested. |
+| [AutoCADScripts](https://github.com/YuriCirino/AutoCADScripts) | AutoLISP tool that cleans up geometry imported from PDFs by selecting parallel lines and filtering noise. Built for my own lightning-protection (SPDA) drawings. |
+
+#### Currently learning
+
+SystemVerilog for verification, assertions (SVA) and UVM.
+
+---
+
+📫 Contact: *(add your email or LinkedIn here)*
